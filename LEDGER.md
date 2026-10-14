@@ -6,3 +6,4 @@ Units: 1 Neki = 1 rupee of work at market price. Rows are only ever added, never
 
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-10-15 | Intesar | Coined the name Gomitai with Kamal; full credit to her (Kamal's call). Witness: Kamal | 1,000 | provisional | https://github.com/topc-social/gomitai-tasks/issues/1 |
