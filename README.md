@@ -10,7 +10,7 @@ Gomitai's public project repo: the shared record of work on Gomitai, a TOPC vent
 1. Pick any open issue. Anyone can hand in, and the best hand-in wins.
 2. Do the work however you like, including with your own AI.
 3. Hand in with a pull request (or through Ideato, which opens one for you) that says `Closes topc-social/gomitai-tasks#N`.
-4. Merging the hand-in accepts it: the issue gets `accepted` and the Neki is added as rows in [`LEDGER.md`](LEDGER.md).
+4. Merging the hand-in accepts it: the issue gets `accepted` and a workflow adds the two Neki rows (1% idea, 99% work) to [`LEDGER.md`](LEDGER.md).
 
 ## Rules
 
